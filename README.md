@@ -4,7 +4,7 @@ A full-stack web application connecting entrepreneurs and investors through real
 
 ## 🚀 Live Demo
 
-Your professional networking platform is ready! Present this to your HR team with confidence.
+Professional networking platform is ready!
 
 ## ✨ Key Features
 
